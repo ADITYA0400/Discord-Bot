@@ -1,9 +1,0 @@
-asyncio
-discord
-requests
-datetime
-python-dotenv
-selenium
-matplotlib
-seaborn
-pandas
